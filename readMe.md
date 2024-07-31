@@ -1,7 +1,7 @@
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; flex-direction: row;">
-  <h1 style="margin-right: 10px;">Hi! This is Henry, I ♥ see you here!</h1>
-</div>
+<!--<div align="center" style="display: flex; align-items: center; justify-content: center; flex-direction: row;">
+  <h1 style="margin-right: 10px;">Hi!</h1>
+</div>-->
 
 <div align="center">
   <table>
