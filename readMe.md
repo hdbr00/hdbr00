@@ -3,7 +3,8 @@
   <h1 style="margin-right: 10px;">My skills</h1>
 </div>
 
-
+ <div align="center">
+  <p><img title="Killjoy" alt="Killjoy" src="https://media.giphy.com/media/2TW4xArgjc4JWscyIu/giphy.gif" style="width: 100px;" /></p>
 
 <div align="center">
   <table>
